@@ -7,4 +7,5 @@ require (
 	github.com/blevesearch/bleve/v2 v2.0.1
 	github.com/elazarl/go-bindata-assetfs v1.0.1
 	github.com/gorilla/mux v1.8.0
+	golang.org/x/sys v0.3.0 // indirect
 )
